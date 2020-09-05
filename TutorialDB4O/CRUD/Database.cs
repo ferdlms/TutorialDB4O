@@ -5,7 +5,7 @@ namespace CRUD
 {
 	public class Database
 	{
-		static string path = "C:\\Users\\flribeir\\source\\repos\\TutorialDB4O_Console\\TutorialDB4O";
+		static string path = AppDomain.CurrentDomain.BaseDirectory;
 
 		public static void Insert(Model.Compra compra)
         {

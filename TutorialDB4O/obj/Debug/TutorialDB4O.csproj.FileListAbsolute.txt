@@ -10,3 +10,16 @@ C:\Users\flribeir\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Db4ob
 C:\Users\flribeir\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.csproj.CopyComplete
 C:\Users\flribeir\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.exe
 C:\Users\flribeir\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.pdb
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\TutorialDB4O.exe.config
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\TutorialDB4O.exe
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\TutorialDB4O.pdb
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Db4objects.Db4o.dll
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Mono.Reflection.dll
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\bin\Debug\Db4objects.Db4o.xml
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.csprojAssemblyReference.cache
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.csproj.CoreCompileInputs.cache
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.csproj.CopyComplete
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.exe
+C:\Users\fferd\Source\Repos\TutorialDB4O_Console\TutorialDB4O\obj\Debug\TutorialDB4O.pdb
